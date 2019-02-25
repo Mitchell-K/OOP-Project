@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../app_main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../App.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../App.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Ball.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Ball.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Game.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Game.h">
+   </FileRef>
+   <FileRef
+      location = "group:../GlutApp.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../GlutApp.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Platform.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Platform.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Shapes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Shapes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Vec.h">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
